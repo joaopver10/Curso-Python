@@ -12,7 +12,7 @@ def mostra(texto):
 
 lendo = lerValor()
 calcula = temperaturaCel(lendo)
-mostrando = mostra(calcula)
+mostra(calcula)
 
 
 def leValor():
@@ -37,4 +37,4 @@ def resultados(velocidade, tempo, distancia, litros):
 v1, v2 = leValor()
 calculoD = calculaDistancia(v1, v2)
 calculoL = calculaLitros(calculoD)
-mostra = resultados(v2, v1, calculoD, calculoL)
+resultados(v2, v1, calculoD, calculoL)
