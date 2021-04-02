@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="493b1af5-68a5-46fd-a93a-3925ce704299" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+=======
+>>>>>>> parent of 62d161d (Merge branch 'main' of https://github.com/joaopver10/Curso-Python into main)
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +24,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1p7rxpLl6HVb2cesgwqnG1UHIeO" />
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+=======
+  <component name="ProjectLevelVcsManager">
+>>>>>>> parent of 62d161d (Merge branch 'main' of https://github.com/joaopver10/Curso-Python into main)
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -47,6 +54,7 @@
       <recent name="C:\Users\joaop\Documents\GitHub\Curso-Python" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.aula9">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,6 +75,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+=======
+  <component name="RunManager" selected="Python.aula10">
+>>>>>>> parent of 62d161d (Merge branch 'main' of https://github.com/joaopver10/Curso-Python into main)
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,6 +101,7 @@
       <method v="2" />
     </configuration>
     <configuration name="aula10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+<<<<<<< HEAD
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="C:\Users\joaop\Documents\GitHub\Curso-Python\venv\Scripts\python.exe" />
@@ -100,6 +112,18 @@
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+=======
+      <module name="Curso-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 10/aula10.py" />
+>>>>>>> parent of 62d161d (Merge branch 'main' of https://github.com/joaopver10/Curso-Python into main)
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,9 +180,12 @@
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+<<<<<<< HEAD
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+=======
+>>>>>>> parent of 62d161d (Merge branch 'main' of https://github.com/joaopver10/Curso-Python into main)
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 8" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -175,6 +202,7 @@
       <method v="2" />
     </configuration>
     <configuration name="aula9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+<<<<<<< HEAD
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="C:\Users\joaop\Documents\GitHub\Curso-Python\venv\Scripts\python.exe" />
@@ -183,6 +211,16 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
+=======
+      <module name="Curso-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+>>>>>>> parent of 62d161d (Merge branch 'main' of https://github.com/joaopver10/Curso-Python into main)
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 9/aula9.py" />
       <option name="PARAMETERS" value="" />
@@ -193,6 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <list>
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.aula5" />
@@ -205,6 +244,12 @@
       <list>
         <item itemvalue="Python.aula9" />
         <item itemvalue="Python.aula10" />
+=======
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aula10" />
+        <item itemvalue="Python.aula9" />
+>>>>>>> parent of 62d161d (Merge branch 'main' of https://github.com/joaopver10/Curso-Python into main)
         <item itemvalue="Python.aula8" />
         <item itemvalue="Python.aula6" />
         <item itemvalue="Python.aula5" />
@@ -230,8 +275,12 @@
       <workItem from="1617317376150" duration="6111000" />
       <workItem from="1617328389626" duration="200000" />
       <workItem from="1617328610928" duration="73000" />
+<<<<<<< HEAD
       <workItem from="1617390162131" duration="7943000" />
       <workItem from="1617402642595" duration="294000" />
+=======
+      <workItem from="1617390162131" duration="6960000" />
+>>>>>>> parent of 62d161d (Merge branch 'main' of https://github.com/joaopver10/Curso-Python into main)
     </task>
     <servers />
   </component>
@@ -240,7 +289,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Curso_Python$aula2.coverage" NAME="aula2 Coverage Results" MODIFIED="1617220053215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 2" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/Curso_Python$aula10.coverage" NAME="aula10 Coverage Results" MODIFIED="1617402519977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 10" />
+=======
+>>>>>>> parent of 62d161d (Merge branch 'main' of https://github.com/joaopver10/Curso-Python into main)
     <SUITE FILE_PATH="coverage/Curso_Python$aula6.coverage" NAME="aula6 Coverage Results" MODIFIED="1617323706746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 6" />
     <SUITE FILE_PATH="coverage/Curso_Python$aula4.coverage" NAME="aula4 Coverage Results" MODIFIED="1617317790941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 4" />
     <SUITE FILE_PATH="coverage/Curso_Python$aula1.coverage" NAME="aula1 Coverage Results" MODIFIED="1617217762038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula1" />
