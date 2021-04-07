@@ -1,10 +1,9 @@
-with open('caminho para ler o arquivo') as tex:
-    for linha in tex:
-        print(linha)
+import re
 
-with open('texto2.txt', 'w') as texto:
-    texto.write('Olá todos')
+ceps = 'Estou morando em um lugar com cep 26135-110, 24163-210'
 
-with open('C:/Users/joaop/Documents/GitHub/Curso-Python/Aula 11/texto2.txt') as texto2:
-    for linha in texto2:
-        print(linha)
+url = 'Acesse o site https://www.google.com.br/ e http://www.g1.com'
+
+print(re.findall('\d{5}-\d{3}', ceps))
+
+print(re.findall('https?://[A-Za-z0-9./]+', url))
