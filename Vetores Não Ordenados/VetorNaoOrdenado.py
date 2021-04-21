@@ -13,7 +13,7 @@ class VetorN:
             for i in range(self.ultimaP + 1):
                 print(i, '-', self.valores[i])
 
-    def insere(self,valor):
+    def insere(self, valor):
         if self.ultimaP == self.capacidade - 1 :
             print('Capacidade maxima atingida')
         else:
