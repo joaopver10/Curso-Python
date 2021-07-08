@@ -1,5 +1,4 @@
 class No:  # Classe para criar cada um dos nós
-
     def __init__(self, valor):
         self.valor = valor
         self.prox = None
@@ -9,7 +8,6 @@ class No:  # Classe para criar cada um dos nós
 
 
 class ListaEncadeada:  # Armazena as estruturas de todos os nós
-
     def __init__(self, nodecount=0):
         # independente da quantidade continua executando a mesma quantidade de passos
         # a complexidade é O(1)
